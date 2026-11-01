@@ -1,0 +1,5 @@
+fastmcp==4.1.4
+openai-agents==0.24.0
+python-dotenv==1.2.4
+tzdata==2026.6
+gradio==6.31.0

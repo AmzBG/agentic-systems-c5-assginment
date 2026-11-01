@@ -1,0 +1,88 @@
+{
+  "name": "Cedar Crumb",
+  "tagline": "Good bread. Time well spent.",
+  "currency": "USD",
+  "products": [
+    {
+      "id": "plain",
+      "name": "Country Sourdough",
+      "weight_g": 800,
+      "price_usd": 6,
+      "description": "A crackly crust and open crumb for everyday toast and sandwiches.",
+      "ingredients": "Wheat flour, water, wheat sourdough starter, salt.",
+      "allergens": [
+        "wheat/gluten"
+      ]
+    },
+    {
+      "id": "whole-wheat",
+      "name": "Whole Wheat Sourdough",
+      "weight_g": 750,
+      "price_usd": 6,
+      "description": "70% whole-wheat and 30% white wheat flour; a fuller flavor and closer crumb.",
+      "ingredients": "Whole-wheat flour, white wheat flour, water, wheat sourdough starter, salt.",
+      "allergens": [
+        "wheat/gluten"
+      ]
+    },
+    {
+      "id": "rye",
+      "name": "Seeded Rye",
+      "weight_g": 700,
+      "price_usd": 7,
+      "description": "60% rye and 40% wheat flour with sunflower and sesame seeds; a naturally denser loaf.",
+      "ingredients": "Rye flour, wheat flour, water, wheat sourdough starter, sunflower seeds, sesame seeds, salt.",
+      "allergens": [
+        "rye/gluten",
+        "wheat/gluten",
+        "sesame"
+      ]
+    },
+    {
+      "id": "olive-rosemary",
+      "name": "Olive & Rosemary Sourdough",
+      "weight_g": 800,
+      "price_usd": 8,
+      "description": "Black olives and rosemary folded into the country dough.",
+      "ingredients": "Wheat flour, water, wheat sourdough starter, black olives, rosemary, salt.",
+      "allergens": [
+        "wheat/gluten"
+      ]
+    },
+    {
+      "id": "zaatar-sesame",
+      "name": "Zaatar & Sesame Sourdough",
+      "weight_g": 800,
+      "price_usd": 7,
+      "description": "A savory loaf with zaatar, sumac, and a sesame crust.",
+      "ingredients": "Wheat flour, water, wheat sourdough starter, zaatar herbs, sumac, sesame seeds, salt.",
+      "allergens": [
+        "wheat/gluten",
+        "sesame"
+      ]
+    },
+    {
+      "id": "walnut-cranberry",
+      "name": "Walnut & Cranberry Sourdough",
+      "weight_g": 800,
+      "price_usd": 9,
+      "description": "Walnuts and dried cranberries for a gently sweet, nutty loaf.",
+      "ingredients": "Wheat flour, water, wheat sourdough starter, walnuts, dried cranberries, salt.",
+      "allergens": [
+        "wheat/gluten",
+        "walnuts"
+      ]
+    }
+  ],
+  "policies": {
+    "business": "Cedar Crumb brings slow-fermented, small-batch bread to the everyday table. Good bread. Time well spent.",
+    "hours": "Monday-Saturday, 07:00-19:00, Asia/Beirut. Closed Sunday.",
+    "ordering": "Prices are per loaf in USD; baked weights are approximate. Pickup inquiries require at least 24 hours of notice and staff confirmation. Requests for more than 30 loaves, bread boxes, or wholesale arrangements require a staff quote. Save customer contact details only with consent.",
+    "availability": "Flavored loaves rotate by baking day. Staff confirms availability and pickup arrangements.",
+    "allergens": "All loaves contain gluten. The kitchen handles wheat, rye, sesame, walnuts, other nuts, milk, and eggs. Cross-contact is possible; allergen-free preparation cannot be guaranteed.",
+    "delivery": "Pickup inquiries are supported. Delivery coverage and fees require staff confirmation.",
+    "storage": "Wrap bread in a clean cloth or paper at room temperature for up to two days; slice and freeze for longer storage.",
+    "fermentation": "Sourdough batches generally ferment for 24-36 hours."
+  },
+  "location": "Hamra, Beirut"
+}
